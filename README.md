@@ -16,8 +16,6 @@ The dataset includes:
 - `Room Type`, `Customer Type`, `Special Requests`
 - `Lead Time`, `Country`, `Revenue Generated`, `Cancellations`
 
-  Dataset can be dowloaded from: [Click here to view csv dataset.](https://drive.google.com/file/d/1YuS45dO_iTowCq0buTKcMHSpzDlKt1MS/view?usp=sharing)
-
 
 ## Key Insights
 1. **Demand Forecast**: Predicts room occupancy for the next 6 months, highlighting peak seasons.
